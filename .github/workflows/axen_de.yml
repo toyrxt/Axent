@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run_axen_us:
+  run_axen_de:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 下载私库脚本
